@@ -1,0 +1,160 @@
+{
+  "header": {
+    "beginning": "Beginning",
+    "advantages": "Advantages",
+    "getToKnow": "Get to Know Flizbar",
+    "plans": "Plans",
+    "contact": "Contact",
+    "client": "I am client",
+    "buttonTxt": "Open your account now"
+  },
+  "page": {
+    "default": {
+      "beginning": {
+        "openAcc": "Open an account and make your money grow",
+        "title": "We are your investment partner.",
+        "text": "Discover the smartest way to manage your investments with Flizbar. We offer a complete package of tools and experts ready to guide you at every step of your investment journey.",
+        "button": "Open your account now",
+        "presentation": "We are your home when it comes to",
+        "presentationSpan": "equity investment."
+      },
+      "advantages": {
+        "title": "THE RIGHT CHOICE",
+        "subtitle": "Why choose Flizbar?",
+        "menu": {
+          "first": {
+            "btnText": "Financial",
+            "btnSub": "Assessment",
+            "title": "Comprehensive Analysis of Your Financial Situation",
+            "subtitle": "At Flizbar, we start with a comprehensive analysis of your current financial situation. This includes evaluating your income, expenses, debts, investments, goals, and targets. Understanding your financial position in detail is the first step to creating an effective and sustainable plan."
+          },
+          "second": {
+            "btnText": "Personalized",
+            "btnSub": "Action Plan",
+            "title": "Detailed and Personalized Strategy for Your Finances",
+            "subtitle": "Based on the financial assessment, we create a personalized action plan that details all your variable expenses, fixed costs, and outstanding debts. This plan is tailored to your specific needs, ensuring that all areas of your finances are covered and directed towards achieving your goals."
+          },
+          "third": {
+            "btnText": "Budget",
+            "btnSub": "Optimization",
+            "title": "Adjustments and Guidelines to Improve Your Finances",
+            "subtitle": "We set guidelines for each area of your financial life and implement necessary adjustments to achieve your goals. Our focus is to reduce debts, if any, and minimize their financial impact. With budget optimization, we help ensure that your finances are always under control."
+          },
+          "fourth": {
+            "btnText": "Smart",
+            "btnSub": "Investments",
+            "title": "Investment Choices Aligned with Your Goals",
+            "subtitle": "We guide you in choosing investments that are aligned with your financial goals. Our aim is to protect your capital while seeking to match or exceed the performance of the CDI. With Flizbar's smart investments, you can invest with confidence and achieve your long-term financial goals."
+          }
+        }
+      },
+      "know": {
+        "title": "ABOUT FLIZBAR",
+        "subtitle": "Get to Know Us Better",
+        "presentationText": "At Flizbar, we are dedicated to transforming the way you approach your investments. By combining cutting-edge technology with the expertise of our specialists in variable income, we offer comprehensive solutions to simplify and enhance your financial resources.",
+        "firstCardTitle": "Who We Are",
+        "firstCardText": "With over 30 years of experience in variable income, our team brings a wealth of knowledge and insights to the table.",
+        "firstCardSecondText": "Our founders, analysts, and advisors are renowned professionals in the field who have dedicated their lives to understanding the markets and the people who invest in them.",
+        "secondCardTitle": "Our Mission",
+        "secondCardText": "Flizbar's mission is clear: to provide exceptional and transparent service that helps investors achieve their financial goals, whether you are a novice trader or a high-income investor.",
+        "secondCardSecondText": "We aim to help you truly enjoy your financial freedom.",
+        "thirdCardTitle": "Our Values",
+        "thirdCardText": "We are committed to offering long-term services to our clients, always seeking the best alternatives for wealth preservation and growth.",
+        "thirdCardSecondText": "We are restless and innovative, striving to translate this into solutions for you. But most importantly, we are committed to you and your financial success.",
+        "lastText": "Ready to transform your investment approach? Count on us."
+      },
+      "plans": {
+        "initialText": "PLANS",
+        "title": "Choose Your Ideal Investment Plan",
+        "subtitle": "Regardless of the size of your assets, we offer a range of exclusive services to meet your needs.",
+        "plan": "Plan",
+        "plansTitles": {
+          "trader": "Trader",
+          "high": "High Income",
+          "private": "Private",
+          "ultraHigh": "Ultra High"
+        },
+        "plansCustody": {
+          "trader": "custody up to $300,000",
+          "high": "custody between $300,000 and $1 million",
+          "private": "custody between $1 million and $5 million",
+          "ultraHigh": "custody above $5 million"
+        },
+        "plansDetails": {
+          "trader": [
+            "Cost transparency",
+            "Agile and humanized service",
+            "Free trading platform",
+            "Access to Variable Income content",
+            "Order sending via WhatsApp with an experienced operator",
+            "Dedicated Trader advisory model"
+          ],
+          "high": [
+            "Cost transparency",
+            "Agile and humanized service",
+            "Free trading platform",
+            "Access to Variable Income content",
+            "Order sending via WhatsApp with an experienced operator",
+            "Advisory via WhatsApp",
+            "Monthly meeting with exclusive advisor",
+            "Monthly market analysis live with a specialist"
+          ],
+          "private": [
+            "Cost transparency",
+            "Agile and humanized service",
+            "Free trading platform",
+            "Access to Variable Income content",
+            "Complete advisory via WhatsApp and phone 24/7",
+            "Active risk monitoring of your investment portfolio",
+            "Free annual Trading Floor membership",
+            "Free tax calculator",
+            "Monthly meeting with exclusive advisor",
+            "Monthly market analysis live with a specialist",
+            "Tax advisory in variable income",
+            "Educational and strategic support on investments"
+          ],
+          "ultraHigh": [
+            "Cost transparency",
+            "Agile and humanized service",
+            "Free trading platform",
+            "Access to Variable Income content",
+            "Complete advisory via WhatsApp and phone 24/7",
+            "Active risk monitoring of your investment portfolio",
+            "Free annual Trading Floor membership",
+            "Free tax calculator",
+            "Monthly meeting with exclusive advisor",
+            "Monthly market analysis live with a specialist",
+            "Tax advisory in variable income",
+            "Educational and strategic support on investments"
+          ]
+        }
+      },
+      "contact": {
+        "topText": "Join our VIP list",
+        "title": "Receive updates",
+        "subtitle": "Be the first to receive news and top tips directly from our communication channels.",
+        "completeName": "Full Name",
+        "email": "Email Address",
+        "phone": "Phone",
+        "send": "Send"
+      },
+      "footer": {
+        "title": "Count on Flizbar to maximize the potential of your investments.",
+        "talkToUs": "TALK TO US",
+        "email": "contact@flizbar.com.br",
+        "number": "+55 (11) 98501-4825",
+        "address": "Senador Tarso Dutra St. 161A, Room 1602/1603",
+        "state": "São Paulo - SP | 90690-140",
+        "rights": "© Flizbar | 2024 • All rights reserved",
+        "useTerms": "TERMS OF USE",
+        "privacy": "PRIVACY POLICY",
+        "company": "FLIZBAR CAPITAL INVESTMENT ADVISORY | CNPJ: 27.652.684/0001-62 © 2024"
+      }
+    }
+  },
+  "languages": {
+    "portuguese": "Português",
+    "english": "English",
+    "spanish": "Espanõl"
+  }
+}

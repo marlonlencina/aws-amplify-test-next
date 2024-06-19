@@ -1,0 +1,161 @@
+{
+  "header": {
+    "beginning": "Início",
+    "advantages": "Vantagens",
+    "getToKnow": "Conheça a Flizbar",
+    "plans": "Planos",
+    "contact": "Contato",
+    "client": "Já sou cliente",
+    "buttonTxt": "Abra sua conta agora",
+    "institutional": "Institucional"
+  },
+  "page": {
+    "default": {
+      "beginning": {
+        "openAcc": "Abra uma conta e faça seu dinheiro render",
+        "title": "Somos seu parceiro de investimentos.",
+        "text": "Descubra a maneira mais inteligente de gerir seus investimentos com a Flizbar. Oferecemos um pacote completo de ferramentas e especialistas prontos para guiá-lo em cada etapa da sua jornada de investimento.",
+        "button": "Abra sua conta agora",
+        "presentation": "Somos a sua casa quando o assunto é",
+        "presentationSpan": "renda variável."
+      },
+      "advantages": {
+        "title": "A ESCOLHA CERTA",
+        "subtitle": "Por que escolher a Flizbar?",
+        "menu": {
+          "first": {
+            "btnText": "Avaliação",
+            "btnSub": "Financeira",
+            "title": "Análise Completa da Sua Situação Financeira",
+            "subtitle": "Na Flizbar, começamos com uma análise abrangente de toda a sua situação financeira atual. Isso inclui a avaliação de sua renda, gastos, dívidas, investimentos, objetivos e metas. Compreender detalhadamente sua posição financeira é o primeiro passo para criar um plano eficaz e sustentável."
+          },
+          "second": {
+            "btnText": "Plano de Ação",
+            "btnSub": "Personalizado",
+            "title": "Estratégia Detalhada e Personalizada para Suas Finanças",
+            "subtitle": "Com base na avaliação financeira, criamos um plano de ação personalizado que detalha todos os seus gastos variáveis, fixos e dívidas pendentes. Este plano é adaptado às suas necessidades específicas, garantindo que todas as áreas de suas finanças estejam cobertas e direcionadas para alcançar seus objetivos."
+          },
+          "third": {
+            "btnText": "Otimização de",
+            "btnSub": "Orçamento",
+            "title": "Ajustes e Diretrizes para Melhorar Suas Finanças",
+            "subtitle": "Definimos diretrizes para cada área de sua vida financeira e implementamos ajustes necessários para atingir seus objetivos. Nosso foco é reduzir dívidas, se houver, e minimizar seu impacto financeiro. Com a otimização do orçamento, ajudamos a garantir que suas finanças estejam sempre sob controle."
+          },
+          "fourth": {
+            "btnText": "Investimentos",
+            "btnSub": "Inteligentes",
+            "title": "Escolhas de Investimentos Alinhadas com Suas Metas",
+            "subtitle": "Orientamos na escolha de investimentos que estejam alinhados com suas metas financeiras. Nosso objetivo é garantir a proteção do seu capital, buscando igualar ou superar o desempenho do CDI. Com os investimentos inteligentes da Flizbar, você pode investir com segurança e alcançar seus objetivos financeiros a longo prazo."
+          }
+        }
+      },
+      "know": {
+        "title": "SOBRE A FLIZBAR",
+        "subtitle": "Conheça mais sobre nós",
+        "presentationText": "Na Flizbar, estamos empenhados em transformar a maneira como você encara seus investimentos. Combinando tecnologia de ponta e a expertise de nossos especialistas em renda variável, oferecemos soluções abrangentes para simplificar e potencializar seus recursos financeiros.",
+        "firstCardTitle": "Quem somos",
+        "firstCardText": "Com mais de 30 anos de experiência em renda variável, nossa equipe trouxe uma vasta bagagem de conhecimentos e insights para a mesa.",
+        "firstCardSecondText": "Nossos fundadores, analistas e assessores são profissionais renomados na área e dedicaram suas vidas a entender os mercados e as pessoas que investem neles.",
+        "secondCardTitle": "Nossa missão",
+        "secondCardText": "A missão da Flizbar é clara: fornecer um serviço excepcional e transparente que ajude os investidores a alcançarem seus objetivos financeiros, seja você um trader iniciante ou um investidor de alta renda.",
+        "secondCardSecondText": "Fazendo com que você possa desfrutar da sua liberdade financeira de verdade.",
+        "thirdCardTitle": "Nossos valores",
+        "thirdCardText": "Estamos comprometidos em oferecer serviços de longo prazo para nossos clientes, sempre buscando as melhores alternativas para preservação e crescimento patrimonial.",
+        "thirdCardSecondText": "Somos inquietos e inovadores, e buscamos traduzir isso em soluções para você. Mas, mais importante ainda, estamos comprometidos com você e com o seu sucesso financeiro.",
+        "lastText": "Pronto para transformar sua maneira de investir? Conte conosco."
+      },
+      "plans": {
+        "initialText": "PLANOS",
+        "title": "Escolha o seu plano de investimento ideal",
+        "subtitle": "Independente do tamanho do seu patrimônio, oferecemos uma gama de serviços exclusivos para atender às suas necessidades.",
+        "plan": "Plano",
+        "plansTitles": {
+          "trader": "Trader",
+          "high": "Alta Renda",
+          "private": "Private",
+          "ultraHigh": "Ultra High"
+        },
+        "plansCustody": {
+          "trader": "custódia até R$ 300 mil",
+          "high": "custódia até entre R$ 300 mil e R$ 1 milhão",
+          "private": "custódia até entre R$ 1 milhão e R$ 5 milhões",
+          "ultraHigh": "custódia acima de R$ 5 milhões"
+        },
+        "plansDetails": {
+          "trader": [
+            "Transparência de custos",
+            "Atendimento ágil e humanizado",
+            "Plataforma de negociações grátis",
+            "Acesso a conteúdos sobre Renda Variável",
+            "Envio de ordens via WhatsApp com operador experiente",
+            "Modelo de assessoria dedicada ao Trader"
+          ],
+          "high": [
+            "Transparência de custos",
+            "Atendimento ágil e humanizado",
+            "Plataforma de negociações grátis",
+            "Acesso a conteúdos sobre Renda Variável",
+            "Envio de ordens via WhatsApp com operador experiente",
+            "Assessoria via WhatsApp",
+            "Reunião mensal com assessor exclusivo",
+            "Live mensal de análise com especialista de mercado"
+          ],
+          "private": [
+            "Transparência de custos",
+            "Atendimento ágil e humanizado",
+            "Plataforma de negociações grátis",
+            "Acesso a conteúdos sobre Renda Variável",
+            "Assessoria completa por WhatsApp e telefone 24/7",
+            "Monitoramento ativo do risco da sua carteira de investimentos",
+            "Anuidade gratuita do Trading Floor",
+            "Calculadora de IR grátis",
+            "Reunião mensal com assessor exclusivo",
+            "Live mensal de análise com especialista de mercado",
+            "Assessoria tributária em renda variável",
+            "Apoio educacional e estratégico sobre investimentos"
+          ],
+          "ultraHigh": [
+            "Transparência de custos",
+            "Atendimento ágil e humanizado",
+            "Plataforma de negociações grátis",
+            "Acesso a conteúdos sobre Renda Variável",
+            "Assessoria completa por WhatsApp e telefone 24/7",
+            "Monitoramento ativo do risco da sua carteira de investimentos",
+            "Anuidade gratuita do Trading Floor",
+            "Calculadora de IR grátis",
+            "Reunião mensal com assessor exclusivo",
+            "Live mensal de análise com especialista de mercado",
+            "Assessoria tributária em renda variável",
+            "Apoio educacional e estratégico sobre investimentos"
+          ]
+        }
+      },
+      "contact": {
+        "topText": "Participe de nossa lista vip",
+        "title": "Receba novidades",
+        "subtitle": "Receba primeiro as novidades e principais dicas diretamente de nossos canais de comunicação.",
+        "completeName": "Nome completo",
+        "email": "Endereço de e-mail",
+        "phone": "Telefone",
+        "send": "Enviar"
+      },
+      "footer": {
+        "title": "Conte com a Flizbar para maximizar o potencial dos seus investimentos.",
+        "talkToUs": "FALE COM A GENTE",
+        "email": "contato@flizbar.com.br",
+        "number": "+55 (11) 98501-4825",
+        "address": "v. Senador Tarso Dutra 161A, Sala 1602/1603",
+        "state": "São Paulo - SP | 90690-140",
+        "rights": "© Flizbar | 2024 • Todos os direitos reservados",
+        "useTerms": "TERMOS DE USO",
+        "privacy": "POLÍTICAS DE PRIVACIDADE",
+        "company": "FLIZBAR CAPITAL ACESSORIA DE INVESTIMENTOS | CNPJ: 27.652.684/0001-62 © 2024 "
+      }
+    }
+  },
+  "languages": {
+    "portuguese": "Português",
+    "english": "English",
+    "spanish": "Espanõl"
+  }
+}
