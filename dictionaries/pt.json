@@ -137,7 +137,8 @@
         "completeName": "Nome completo",
         "email": "Endereço de e-mail",
         "phone": "Telefone",
-        "send": "Enviar"
+        "send": "Enviar",
+        "formSuccess": "Formulário enviado com sucesso."
       },
       "footer": {
         "title": "Conte com a Flizbar para maximizar o potencial dos seus investimentos.",

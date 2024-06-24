@@ -24,9 +24,9 @@ export default function Footer({ languages }: { languages: any }) {
         <div>
           <div className="w-[125px] h-[32px] mb-[40px]" style={{ backgroundImage: `url(${logo.src})` }}></div>
           <p className="text-[24px] max-w-[312px] mb-[32px]">{footer.title}</p>
-          <button className="flex gap-[8px] border w-[154px] h-[46px] items-center justify-center rounded font-semibold text-[16px]">
+          <a href="https://dashboard.flizbar.com/" className="flex gap-[8px] border w-[154px] h-[46px] items-center justify-center rounded font-semibold text-[16px]">
             {languages.header.client} <Image alt="user-img" src={vector.src} width={20} height={20} />
-          </button>
+          </a>
         </div>
 
         <div className="flex flex-col gap-6">

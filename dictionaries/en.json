@@ -136,14 +136,15 @@
         "completeName": "Full Name",
         "email": "Email Address",
         "phone": "Phone",
-        "send": "Send"
+        "send": "Send",
+        "formSuccess": "Form successfully submitted."
       },
       "footer": {
         "title": "Count on Flizbar to maximize the potential of your investments.",
         "talkToUs": "TALK TO US",
         "email": "contact@flizbar.com.br",
         "number": "+55 (11) 98501-4825",
-        "address": "Senador Tarso Dutra St. 161A, Room 1602/1603",
+        "address": "Av. Senador Tarso Dutra St. 161A, Room 1602/1603",
         "state": "São Paulo - SP | 90690-140",
         "rights": "© Flizbar | 2024 • All rights reserved",
         "useTerms": "TERMS OF USE",

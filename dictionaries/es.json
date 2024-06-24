@@ -6,7 +6,8 @@
     "plans": "Planes",
     "contact": "Contacto",
     "client": "Ya soy cliente",
-    "buttonTxt": "Abra su cuenta ahora"
+    "buttonTxt": "Abra su cuenta ahora",
+    "formSuccess": "Formulário enviado com sucesso."
   },
   "page": {
     "default": {
@@ -136,7 +137,8 @@
         "completeName": "Nombre completo",
         "email": "Dirección de correo electrónico",
         "phone": "Teléfono",
-        "send": "Enviar"
+        "send": "Enviar",
+        "formSuccess": "Formulario enviado con éxito."
       },
       "footer": {
         "title": "Cuenta con Flizbar para maximizar el potencial de tus inversiones.",
